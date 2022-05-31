@@ -10,9 +10,9 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/litmuschaos/litmusctl/pkg/k8s"
-	"github.com/litmuschaos/litmusctl/pkg/types"
-	"github.com/litmuschaos/litmusctl/pkg/utils"
+	"github.com/RobinSegura/litmusctl/pkg/k8s"
+	"github.com/RobinSegura/litmusctl/pkg/types"
+	"github.com/RobinSegura/litmusctl/pkg/utils"
 	"github.com/mitchellh/go-homedir"
 	"github.com/spf13/cobra"
 )

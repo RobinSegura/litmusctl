@@ -1,17 +1,17 @@
 # Litmusctl
-[![BCH compliance](https://bettercodehub.com/edge/badge/litmuschaos/litmusctl?branch=master)](https://bettercodehub.com/)
-![GitHub Workflow](https://github.com/litmuschaos/litmusctl/actions/workflows/push.yml/badge.svg?branch=master)
-[![GitHub stars](https://img.shields.io/github/stars/litmuschaos/litmusctl?style=social)](https://github.com/litmuschaos/litmusctl/stargazers)
-[![GitHub Release](https://img.shields.io/github/release/litmuschaos/litmusctl.svg?style=flat)]()
+[![BCH compliance](https://bettercodehub.com/edge/badge/RobinSegura/litmusctl?branch=master)](https://bettercodehub.com/)
+![GitHub Workflow](https://github.com/RobinSegura/litmusctl/actions/workflows/push.yml/badge.svg?branch=master)
+[![GitHub stars](https://img.shields.io/github/stars/RobinSegura/litmusctl?style=social)](https://github.com/RobinSegura/litmusctl/stargazers)
+[![GitHub Release](https://img.shields.io/github/release/RobinSegura/litmusctl.svg?style=flat)]()
 
 The Litmuschaos command-line tool, litmusctl, allows you to manage litmuschaos's agent plane. You can use litmusctl to create agents, project, and manage multiple litmuschaos accounts. 
 
 ## Usage
 For more information including a complete list of litmusctl operations, see the litmusctl reference documentation.
 * For v0.3.0 or latest: 
-  * Non-Interactive mode: <a href="https://github.com/litmuschaos/litmusctl/blob/master/Usage.md">Click here</a>
-  * Interactive mode: <a href="https://github.com/litmuschaos/litmusctl/blob/master/Usage_interactive.md">Click here</a>
-* For v0.2.0 or earlier && compatible with Litmus-2.0.0-Beta8 or earlier: <a href="https://github.com/litmuschaos/litmusctl/blob/master/Usage_v0.2.0.md">Click here</a>
+  * Non-Interactive mode: <a href="https://github.com/RobinSegura/litmusctl/blob/master/Usage.md">Click here</a>
+  * Interactive mode: <a href="https://github.com/RobinSegura/litmusctl/blob/master/Usage_interactive.md">Click here</a>
+* For v0.2.0 or earlier && compatible with Litmus-2.0.0-Beta8 or earlier: <a href="https://github.com/RobinSegura/litmusctl/blob/master/Usage_v0.2.0.md">Click here</a>
 
 ## Requirements
 

@@ -21,8 +21,8 @@ import (
 	"text/tabwriter"
 	"time"
 
-	"github.com/litmuschaos/litmusctl/pkg/config"
-	"github.com/litmuschaos/litmusctl/pkg/utils"
+	"github.com/RobinSegura/litmusctl/pkg/config"
+	"github.com/RobinSegura/litmusctl/pkg/utils"
 	"github.com/spf13/cobra"
 )
 

@@ -23,9 +23,9 @@ import (
 
 	"github.com/golang-jwt/jwt"
 
-	"github.com/litmuschaos/litmusctl/pkg/utils"
+	"github.com/RobinSegura/litmusctl/pkg/utils"
 
-	"github.com/litmuschaos/litmusctl/pkg/types"
+	"github.com/RobinSegura/litmusctl/pkg/types"
 )
 
 type createProjectResponse struct {

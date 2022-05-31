@@ -19,9 +19,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/litmuschaos/litmusctl/pkg/config"
-	"github.com/litmuschaos/litmusctl/pkg/types"
-	"github.com/litmuschaos/litmusctl/pkg/utils"
+	"github.com/RobinSegura/litmusctl/pkg/config"
+	"github.com/RobinSegura/litmusctl/pkg/types"
+	"github.com/RobinSegura/litmusctl/pkg/utils"
 	"github.com/spf13/cobra"
 )
 

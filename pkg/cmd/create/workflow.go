@@ -21,9 +21,9 @@ import (
 	"strings"
 	"time"
 
+	"github.com/RobinSegura/litmusctl/pkg/apis"
+	"github.com/RobinSegura/litmusctl/pkg/utils"
 	"github.com/gorhill/cronexpr"
-	"github.com/litmuschaos/litmusctl/pkg/apis"
-	"github.com/litmuschaos/litmusctl/pkg/utils"
 
 	"github.com/litmuschaos/litmus/litmus-portal/graphql-server/graph/model"
 

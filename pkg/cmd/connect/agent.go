@@ -20,11 +20,11 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/litmuschaos/litmusctl/pkg/agent"
-	"github.com/litmuschaos/litmusctl/pkg/apis"
-	"github.com/litmuschaos/litmusctl/pkg/k8s"
-	"github.com/litmuschaos/litmusctl/pkg/types"
-	"github.com/litmuschaos/litmusctl/pkg/utils"
+	"github.com/RobinSegura/litmusctl/pkg/agent"
+	"github.com/RobinSegura/litmusctl/pkg/apis"
+	"github.com/RobinSegura/litmusctl/pkg/k8s"
+	"github.com/RobinSegura/litmusctl/pkg/types"
+	"github.com/RobinSegura/litmusctl/pkg/utils"
 
 	"github.com/spf13/cobra"
 )

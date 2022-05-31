@@ -19,11 +19,11 @@ import (
 	"fmt"
 	"io/ioutil"
 
-	"github.com/litmuschaos/litmusctl/pkg/utils"
+	"github.com/RobinSegura/litmusctl/pkg/utils"
 
 	"os"
 
-	"github.com/litmuschaos/litmusctl/pkg/config"
+	"github.com/RobinSegura/litmusctl/pkg/config"
 	"github.com/spf13/cobra"
 )
 

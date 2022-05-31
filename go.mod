@@ -9,6 +9,7 @@ require (
 	github.com/gorhill/cronexpr v0.0.0-20180427100037-88b0669f7d75
 	github.com/litmuschaos/chaos-operator v0.0.0-20211109081056-46bcd99c3daf
 	github.com/litmuschaos/litmus/litmus-portal/graphql-server v0.0.0-20220516165207-ffe995975cc2
+	github.com/litmuschaos/litmusctl v0.9.0 // indirect
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/spf13/cobra v1.2.1
 	github.com/spf13/viper v1.8.1

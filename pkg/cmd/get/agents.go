@@ -20,8 +20,8 @@ import (
 	"os"
 	"text/tabwriter"
 
-	"github.com/litmuschaos/litmusctl/pkg/apis"
-	"github.com/litmuschaos/litmusctl/pkg/utils"
+	"github.com/RobinSegura/litmusctl/pkg/apis"
+	"github.com/RobinSegura/litmusctl/pkg/utils"
 	"github.com/spf13/cobra"
 )
 

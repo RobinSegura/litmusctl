@@ -19,7 +19,7 @@ import (
 	"fmt"
 	"os"
 
-	rootCmd "github.com/litmuschaos/litmusctl/pkg/cmd/root"
+	rootCmd "github.com/RobinSegura/litmusctl/pkg/cmd/root"
 )
 
 var CLIVersion string

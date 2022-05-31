@@ -21,9 +21,9 @@ import (
 	"io/ioutil"
 	"net/http"
 
+	types "github.com/RobinSegura/litmusctl/pkg/types"
+	"github.com/RobinSegura/litmusctl/pkg/utils"
 	"github.com/litmuschaos/litmus/litmus-portal/graphql-server/graph/model"
-	types "github.com/litmuschaos/litmusctl/pkg/types"
-	"github.com/litmuschaos/litmusctl/pkg/utils"
 )
 
 type ChaosWorkflowCreationData struct {

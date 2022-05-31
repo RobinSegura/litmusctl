@@ -26,9 +26,9 @@ import (
 	"os"
 	"strings"
 
+	"github.com/RobinSegura/litmusctl/pkg/config"
+	"github.com/RobinSegura/litmusctl/pkg/types"
 	"github.com/fatih/color"
-	"github.com/litmuschaos/litmusctl/pkg/config"
-	"github.com/litmuschaos/litmusctl/pkg/types"
 	"github.com/mitchellh/go-homedir"
 	"github.com/spf13/cobra"
 	"gopkg.in/yaml.v2"

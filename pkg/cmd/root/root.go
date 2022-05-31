@@ -23,16 +23,16 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/litmuschaos/litmusctl/pkg/cmd/connect"
-	"github.com/litmuschaos/litmusctl/pkg/cmd/disconnect"
-	"github.com/litmuschaos/litmusctl/pkg/cmd/upgrade"
-	"github.com/litmuschaos/litmusctl/pkg/cmd/version"
-	"github.com/litmuschaos/litmusctl/pkg/utils"
+	"github.com/RobinSegura/litmusctl/pkg/cmd/connect"
+	"github.com/RobinSegura/litmusctl/pkg/cmd/disconnect"
+	"github.com/RobinSegura/litmusctl/pkg/cmd/upgrade"
+	"github.com/RobinSegura/litmusctl/pkg/cmd/version"
+	"github.com/RobinSegura/litmusctl/pkg/utils"
 
-	"github.com/litmuschaos/litmusctl/pkg/cmd/config"
-	"github.com/litmuschaos/litmusctl/pkg/cmd/create"
-	"github.com/litmuschaos/litmusctl/pkg/cmd/get"
-	config2 "github.com/litmuschaos/litmusctl/pkg/config"
+	"github.com/RobinSegura/litmusctl/pkg/cmd/config"
+	"github.com/RobinSegura/litmusctl/pkg/cmd/create"
+	"github.com/RobinSegura/litmusctl/pkg/cmd/get"
+	config2 "github.com/RobinSegura/litmusctl/pkg/config"
 	"github.com/spf13/cobra"
 
 	"github.com/mitchellh/go-homedir"
@@ -45,7 +45,7 @@ var cfgFile string
 var rootCmd = &cobra.Command{
 	Use:   "litmusctl",
 	Short: "Litmusctl controls the litmuschaos agent plane",
-	Long:  `Litmusctl controls the litmuschaos agent plane. ` + "\n" + ` Find more information at: https://github.com/litmuschaos/litmusctl`,
+	Long:  `Litmusctl controls the litmuschaos agent plane. ` + "\n" + ` Find more information at: https://github.com/RobinSegura/litmusctl`,
 }
 
 // Execute adds all child commands to the root command and sets flags appropriately.
